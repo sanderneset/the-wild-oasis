@@ -1,5 +1,5 @@
 # The Wild Oasis
 
-Main project in Jonas Schmedtmann's Ultimate React Course.
+An app for the fictional hotel The Wild Oasis. Used for keeping track of bookings and guests.
 
-Built with React Query and Supabase.
+Main project in Jonas Schmedtmann's Ultimate React Course. Built with React Query and Supabase.
